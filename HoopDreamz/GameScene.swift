@@ -20,7 +20,7 @@ class Gamescene: SKScene {
         // Center player
         player.position = CGPoint(x: size.width / 2, y: size.height / 2)
         
-        // Add player to scene
+        // Add player to scene 
         addChild(player)
     }
 }
